@@ -27,9 +27,13 @@ BeatBot Team
 -----------------
 
 [Amirho3inf](http://telegram.me/amirho3inf)
+
 [YellowHat](http://telegram.me/yellowhat)
+
 [FastReaCtor](http://telegram.me/fastreactor)
+
 [ThisIsAmirh](http://telegram.me/thisisamirh)
+
 [Mahdi](http://telegram.me/rm_ideactive)
 
 BeatBot Team Channel
